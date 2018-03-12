@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  ScrollviewAutolayoutdemo
-//
-//  Created by shreena shah on 06/01/17.
-//  Copyright © 2017 shreena shah. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
